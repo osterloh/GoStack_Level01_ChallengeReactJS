@@ -23,7 +23,8 @@
 ## Descrição
 
 Este projeto tem a finalidade de consumir a API desenvolvida em Node.js, demonstrando as funcionalidades da conexão do projeto Front-End no Back-End, assim como a implementação de ações nos elementos BUTTON chamando uma determinada função no onClick.
-Para que este projeto possa ser compilado corretamente é necessário o projeto [GoStack_Level01_ChallengeReactNative](https://github.com/osterloh/GoStack_Level01_ChallengeReactNative) estar compilado na máquina, para poder ter acesso ao Back-End.
+<br><strong>
+Para que este projeto possa ser compilado corretamente é necessário o projeto [GoStack_Level01_ChallengeReactNative](https://github.com/osterloh/GoStack_Level01_ChallengeReactNative) estar compilado na máquina, para poder ter acesso ao Back-End.</strong>
 
 ## Tecnologias
 
