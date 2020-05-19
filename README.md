@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Go Finances" src="./src/assets/banner.jpg" />
+    <img alt="Go Finances" src="./src/assets/banner.jpg" width="300" />
     <br>
     Projeto Front-End ReactJS
     <br>
